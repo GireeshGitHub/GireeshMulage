@@ -1,6 +1,6 @@
 package com.empmgt;
 
-import junit.framework.TestCase;
+import junit.framework.*;
 
 /**
  * 
