@@ -54,7 +54,7 @@ public class CommonConstant {
 	/*PessimisticLockException*/
 	public static final String STR_PESSIMI_EX="PessimisticLockException"; 
 	/*LockTimeoutException*/
-	ublic static final String STR_LOCKTIME_EX="LockTimeoutException";
+	public static final String STR_LOCKTIME_EX="LockTimeoutException";
 	
 	/*TestJenkinsbuildtrigger6*/
 	
