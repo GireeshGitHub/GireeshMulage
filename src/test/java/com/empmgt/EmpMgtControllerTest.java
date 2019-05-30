@@ -1,6 +1,7 @@
 package com.empmgt;
 
 import junit.framework.*;
+import static org.junit.Assert.assertTrue;
 
 /**
  * 
