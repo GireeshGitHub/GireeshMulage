@@ -9,7 +9,7 @@ import static org.junit.Assert.assertTrue;
  * Unit test class
  *
  */
-public class EmpMgtControllerTest {
+public class EmpMgtControllerTest extends TestCase{
 
 	int value1;
 	int value2;
