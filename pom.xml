@@ -23,6 +23,9 @@
         <version>2.12.4</version>
         <configuration>
           <skipTests>false</skipTests>
+		  <includes>
+            <include>**/*Test.java</include>
+        </includes>
         </configuration>
       </plugin>
     </plugins>
