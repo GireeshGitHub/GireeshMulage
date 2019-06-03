@@ -21,7 +21,7 @@ public class EmpMgtControllerTest extends TestCase{
 
 	   // test method to add two values
 	   public void testAdd(){
-	      double result = value1 + value2;
+	      double result = (double)value1 + (double)value2;
 	      assertTrue(result == 15);
 	   }
 }
